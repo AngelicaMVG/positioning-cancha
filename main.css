@@ -1,0 +1,63 @@
+#cancha {
+  background-color: #7cbb7d;
+	width: 820px;
+  height: 450px;
+  position: relative;
+  left: 18%;
+}
+
+#borde{
+  position: absolute;
+	border: 2px solid #fff;
+	width: 778px;
+  height: 408px;
+  margin: 20px;
+}
+
+.porteria {
+  position: absolute;
+	border: 2px solid #fff;
+	width: 110px;
+	height: 258px;
+}
+
+.derecha{
+	margin-left: 667px;
+  margin-top: 73px;
+}
+
+.izquierda{
+  margin-top: 73px;
+}
+
+.centroCampo {
+	position: absolute;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #fff;
+	margin-top: 120px;
+	margin-left: 314px;
+}
+
+.balon{
+	width: 20px;
+	box-shadow: 2px 2px 5px #999;
+	height: 20px;
+	border: solid 2px #fff;
+	border-radius: 50%;
+	background-color: #fff;
+}
+
+.izquierdo{
+	margin-left: 92px;
+}
+
+.centro{
+	margin-top: -75px;
+}
+
+.derecho{
+	margin-top: 230px;
+	margin-left: -20px;
+}
